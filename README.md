@@ -24,6 +24,14 @@
 
 Read the **[Installation guide](https://docs.flarum.org/install)** to get started. For support, refer to the [documentation](https://docs.flarum.org/), and ask questions on the [community forum](https://discuss.flarum.org/) or [Discord chat](https://flarum.org/discord/).
 
+## Self-Hosting
+
+### Elestio
+
+You can deploy software on Elestio using one-click deployment. Elestio takes care of version updates, security, maintenance, backups, etc. Additionally, Elestio supports Flarum by providing revenue share so go ahead and click below to deploy and start using.
+
+[![Deploy on Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/flarum)
+
 ## Contributing
 
 Thank you for considering contributing to Flarum! Please read the **[Contributing guide](https://docs.flarum.org/contributing)** to learn how you can help.
