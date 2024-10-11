@@ -28,7 +28,7 @@ Read the **[Installation guide](https://docs.flarum.org/install)** to get starte
 
 ### Elestio
 
-You can deploy software on Elestio using one-click deployment. Elestio takes care of version updates, security, maintenance, backups, etc. Additionally, Elestio supports Flarum by providing revenue share so go ahead and click below to deploy and start using.
+You can deploy Flarum on Elestio using one-click deployment. Elestio takes care of version updates, security, maintenance, backups, etc. Additionally, Elestio supports Flarum by providing revenue share so go ahead and click below to deploy and start using.
 
 [![Deploy on Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/flarum)
 
